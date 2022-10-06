@@ -1,0 +1,42 @@
+
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    display: flexbox;
+    font-size: 15px ;
+}
+.container{
+    display: flex;
+    padding: 7%;
+}
+
+.target{
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    margin: 0px auto;
+    padding-top: 2.5px;
+    width: 250px;
+    height: 400px;
+}
+.target-inter{
+    display: flex;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+.text  {
+    text-align: center;
+    margin: 15px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+.second{
+    font-size: 12px;
+    color: rgb(185, 185, 185);
+}
